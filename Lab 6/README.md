@@ -17,7 +17,7 @@ Refer to the lab handout for instructions.
 
 ## Before Updating:
 
-![Code Coverage](screenshots/codecoverage1.png)
+![Code Coverage](screenshots/linecoverage1.png)
 
 ![Branch Coverage](screenshots/branchcoverage1.png)
 

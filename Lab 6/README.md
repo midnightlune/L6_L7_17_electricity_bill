@@ -14,3 +14,16 @@ A small Python module that works out the electricity bill using unit slabs, adds
 | `test_electricity_bill.py` | Starter test file |
 
 Refer to the lab handout for instructions.
+
+## Before Updating:
+
+![Code Coverage](screenshots/codecoverage1.png)
+
+![Branch Coverage](screenshots/branchcoverage1.png)
+
+## After Updating:
+
+![Code Coverage Final](screenshots/codecoverage_final.png)
+
+![Branch Coverage Final](screenshots/branchcoverage_final.png)
+
